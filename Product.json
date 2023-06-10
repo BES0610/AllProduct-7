@@ -1,0 +1,19 @@
+    {
+        "id": 7,
+        "title": "shoes",
+        "price": 695,
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "jewelery",
+        "image": "https://static.bershka.net/4/photos2/2023/V/0/1/p/7451/693/712/cd4678b2d7015543956d12fd9f056e4f-7451693712_1_1_0.jpg?imwidth=850&impolicy=bershka-itxmedium&imformat=chrome",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        },
+        "Name": "Hony",
+        "Color1": "Black",
+        "Color2": "Red",
+        "Color3": "Blue",
+        "Color4": "Fuji",
+        "Color5": "Red",
+        "Color6": "local"
+    }
